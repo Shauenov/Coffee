@@ -2,6 +2,7 @@
     background-image: url(photo_2024-10-08_21-34-29.jpg);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: 1000px, 1000px auto;
     height: 300px;
     font-family: "Pacifico", cursive;
     text-align: center;
