@@ -12,6 +12,7 @@
     h3{
         text-align: center;
         color: #5c484b;
+        background-color:#eee8e0;
     }
     .first_p {
         color: #a19d98;
@@ -23,7 +24,6 @@
     body{
         background-color: #eee8e0;}
     .nigga{
-        background-color: #eee8e0;
         width: 950px;
         margin: auto;
     }
@@ -35,32 +35,42 @@
     .green{
         background-color: #99c39a;
         margin: -21px auto;
-        width: 950px;
+        width: 930px;
+        padding: 10px;
+
     }
-    h4, h5, p{
+    h5, p{
         color: white;
+        font-weight: 200;
+    }
+    h4{
+        color: white;
+        font-size: 32px;
     }
     .light{
         background-color: #a96342;
-        margin-top: 0; 
-        padding-top: 0;
         margin: -21px auto;
-        width: 950px;
+        width: 930px;
+        padding: 10px;
     }
     .city{
         background-color: #96582e;
         margin: -21px auto;
-        width: 950px;
+        width: 930px;
+        padding: 10px;
     }
     .vienna{
         background-color: #af4040;
-        margin: -21px auto;
-        width: 950px;
+        margin: -25px auto;
+        margin-top: -25px;
+        width: 930px;
+        padding: 10px;
     }
     .italian{
         background-color: #191919;
         margin: -21px auto;
-        width: 950px;
+        width: 930px;
+        padding: 10px;
     }
     h2{
         color: #e3bc99;
@@ -81,8 +91,6 @@
     .bags, .first_p{
         background-color: white;
     }
-    .aplle{
-        margin: 15px a;
-    }
+
     
     
