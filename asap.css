@@ -2,13 +2,14 @@
     background-image: url(photo_2024-10-08_21-34-29.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 1000px, 1000px auto;
+    
     height: 300px;
     font-family: "Pacifico", cursive;
     text-align: center;
     padding-top: 50px;
     font-size: 40px;
     color:#41292c;
+    
     }
     h3{
         text-align: center;
@@ -92,6 +93,12 @@
     .bags, .first_p{
         background-color: white;
     }
+    .Tea, .Anandi, .Rio, .Mamba, .Pie, .Lacosta{
+        width: 950px;
+        margin: 25px auto;
+        padding: 10px auto;
+    }
+
 
     
     
